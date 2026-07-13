@@ -3,5 +3,5 @@ import 'package:my_app?models/activity_model.dart';
 
 class ActivityListWidget extends StatelessWidget {
     const ActivityListWidget({super.key, required this.activityModeStore});
-    final List<Activity>
+    final List<Activity>พพ
 }
